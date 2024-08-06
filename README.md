@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on an eccommerce website
-- 🌱 I’m currently learning javascript and react
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on web applications
-- 🤔 I’m looking for help with knowing the skills needed to secure a job
-- 💬 Ask me about python, ai and web
+- 🤔 I’m looking for help with creating virtual brain
+- 💬 Ask me about Python, React and AI
 - 📫 How to reach me: @ogowithrizz
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make games too

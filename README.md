@@ -1,4 +1,3 @@
 ### Hello passerby...
 
-I find interest only in Web development, Game development and AI
-
+I'm an experienced Frontend developer with a bit of proficiency in backend.Interested in created secure, intuitive and seamless applications

@@ -1,4 +1,5 @@
 ### Hello passerby...
 https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+https://camo.githubusercontent.com/a9a7e82c03c662e4abff12a363ff0a1cd2710b72a49af41d37ff10cbd84a6f7a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4e776572656d697a75266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 
 I'm an experienced Frontend developer with a bit of proficiency in backend.Interested in created secure, intuitive and seamless applications

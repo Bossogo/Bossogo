@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Bossogo%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Ogo%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bossogo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Bossogo)
 [![GitHub followers](https://img.shields.io/github/followers/Bossogo?label=Followers&style=social)](https://github.com/Bossogo?tab=followers)

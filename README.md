@@ -23,7 +23,7 @@ const bossogo = {
 - 🔭 I'm currently working on **full-stack web applications**
 - 🌱 Always learning something new in the JS/TS ecosystem
 - 💡 Passionate about building **secure, intuitive & seamless** apps
-- 💬 Ask me about **React, JavaScript, Node.js, CSS**
+- 💬 Ask me about **React, Next.js, Node.js, CSS**
 - ⚡ Fun fact: I believe great UI is invisible — it just works
 
 ---

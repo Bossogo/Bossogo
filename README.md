@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Ogo%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Eyiowuawi%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bossogo&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Bossogo)
-[![GitHub followers](https://img.shields.io/github/followers/Bossogo?label=Followers&style=social)](https://github.com/Bossogo?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Eyiowuawi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Eyiowuawi)
+[![GitHub followers](https://img.shields.io/github/followers/Eyiowuawi?label=Followers&style=social)](https://github.com/Eyiowuawi?tab=followers)
 
 </div>
 
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const bossogo = {
+const eyiowuawi = {
   role:       "Frontend Developer (with a dash of Backend)",
   passion:    ["Secure Apps", "Intuitive UIs", "Seamless UX"],
   currently:  "Building things that matter 🚀",
@@ -53,14 +53,14 @@ const bossogo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bossogo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bossogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eyiowuawi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyiowuawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bossogo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eyiowuawi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -70,7 +70,7 @@ const bossogo = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bossogo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eyiowuawi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -80,7 +80,7 @@ const bossogo = {
 
 <div align="center">
 
-[![Bossogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bossogo&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Eyiowuawi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyiowuawi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -90,8 +90,8 @@ const bossogo = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bossogo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bossogo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Eyiowuawi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Eyiowuawi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
